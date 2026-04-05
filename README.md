@@ -1,6 +1,6 @@
 # Shan Bohu Global Transaction List
 # 山伯虎全球交易清单
-**With personal integrity as trust, with the list as proof, to conduct credible long-term transactions worldwide.**
+**With personal integrity as trust, with the list as proof, to conduct credible long-term transactions worldwide.**  
 **以人格为信，以清单为证，做全球可信长期交易。**
 
 ## Basic Info | 基础信息
@@ -29,5 +29,5 @@
 ---
 
 ## Official Statement | 官方声明
-This is the **official permanent public version** of the Shan Bohu Global Transaction List, fully guaranteed by personal integrity.
+This is the **official permanent public version** of the Shan Bohu Global Transaction List, fully guaranteed by personal integrity.  
 本文档为**山伯虎全球交易清单官方永久公示版本**，以山伯虎人格信誉全程担保。
